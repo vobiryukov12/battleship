@@ -1,1 +1,1 @@
-# battleship-
+# Head First JavaScript Programming | Battleship
